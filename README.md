@@ -1,4 +1,4 @@
-variables-desktop
+Desktop Variables
 =================
 
-Desktop variables
+Desktop variables for the default Topcoat theme.
