@@ -76,6 +76,6 @@
   var-left--switch__label--right: .8rem;
   var-padding-left--switch__label--right: 0.6rem;
   var-margin-left--switch__toggle--checked: 1.85rem;
-  var-padding--select: .06rem .563rem .06rem 0.4rem;
+  var-padding--select: .06rem 1.4rem .06rem 0.4rem;
 }
 
