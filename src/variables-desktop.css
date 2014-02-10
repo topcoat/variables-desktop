@@ -32,8 +32,8 @@
   var-line-height: var(height);
   var-line-height--large: var(height--large);
   var-vertical-align: top;
-  var-size--icon: var(height) * 0.62;
-  var-size--icon--large: var(height--large) * 0.63;
+  var-size--icon: 0.81406rem;
+  var-size--icon--large: 1.06344rem;
   var-padding--icon-button: 0 0.25rem;
   var-icon-top: -1px;
   var-icon-top--large: -2px;
@@ -69,11 +69,11 @@
   var-width--switch__label: 2.6rem;
   var-content--switch__label--left: 'ON';
   var-content--switch__label--right: 'OFF';
-  var-right--switch__label--left: .8rem;
+  var-right--switch__label--left: 0.8rem;
   var-padding-left--switch__label--left: 0.75rem;
   var-width--switch__toggle: 1rem;
   var-margin-left--switch__toggle: -0.6rem;
-  var-left--switch__label--right: .8rem;
+  var-left--switch__label--right: 0.8rem;
   var-padding-left--switch__label--right: 0.6rem;
   var-margin-left--switch__toggle--checked: 1.85rem;
   var-padding--select: 0.06rem 0.563rem 0 1.3rem;
