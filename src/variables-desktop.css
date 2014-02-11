@@ -19,6 +19,7 @@
 :root {
   var-font-size: 12px;
   var-font-size--large: 0.875rem;
+  var-font-size--header: 1.5rem;
   var-font-weight: 400;
   var-font-weight--large: 600;
   var-letter-spacing: 0;
@@ -77,5 +78,6 @@
   var-padding-left--switch__label--right: 0.6rem;
   var-margin-left--switch__toggle--checked: 1.85rem;
   var-padding--select: .06rem 1.4rem .06rem 0.4rem;
+  var-padding--overlay: 1.6rem;
 }
 
