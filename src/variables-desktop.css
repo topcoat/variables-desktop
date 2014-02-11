@@ -79,5 +79,6 @@
   var-margin-left--switch__toggle--checked: 1.85rem;
   var-padding--select: .06rem 1.4rem .06rem 0.4rem;
   var-padding--overlay: 1.6rem;
+  var-padding--overlay__title: 0rem 0 1rem;
 }
 
