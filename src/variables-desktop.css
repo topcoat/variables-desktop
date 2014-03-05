@@ -27,8 +27,8 @@
   var-border-radius: 4px;
   var-border-radius--large: 15px;
   var-border-radius--huge: 25px;
-  var-padding: 0 0.563rem;
-  var-padding--large: 0 0.875rem;
+  var-padding: 0.25rem 0.75rem;
+  var-padding--large: 0.28rem 1.16rem;
   var-height: 1.313rem;
   var-height--large: 1.688rem;
   var-line-height: var(height);
