@@ -1,7 +1,6 @@
 {
   "name": "topcoat-variables-desktop",
   "description": "Variables for the Topcoat Desktop theme",
-  "main": "entry.css",
   "style": "src/variables-desktop.css",
   "scripts": {
     "test": "ava",
