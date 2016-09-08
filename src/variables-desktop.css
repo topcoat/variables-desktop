@@ -11,6 +11,7 @@
   --border-radius--huge: 25px;
   --padding: 0.25rem 0.75rem;
   --padding--large: 0.28rem 1.16rem;
+  --padding-right--select: 2rem;
   --height: 1.313rem;
   --height--large: 1.688rem;
   --line-height: var(--height);
