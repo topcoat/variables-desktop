@@ -11,6 +11,7 @@
   border-radius-huge: var(--border-radius--huge);
   padding: var(--padding);
   padding-large: var(--padding--large);
+  padding-right-select: var(--padding-right--select);
   height: var(--height);
   height-large: var(--height--large);
   line-height: var(--line-height);
